@@ -15,13 +15,13 @@ Open [app.py](app.py) and set `USERNAME` to your GitHub username.
 
 Run this in the project folder:
 
-pip install requests
+`pip install requests`
 
 ## Run
 
 Run the script:
 
-python app.py
+`python app.py`
 
 ## Output
 
